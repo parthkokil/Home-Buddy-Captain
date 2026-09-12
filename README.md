@@ -133,7 +133,3 @@ The app syncs between Captains and Customers using Google Firebase Realtime Data
    - Press the green **Run** button (`Shift + F10`) or run `./gradlew assembleDebug` in terminal.
 
 ---
-
-## 📄 License
-
-This project is created for educational and commercial use under project guidelines.
